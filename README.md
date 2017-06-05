@@ -1,2 +1,3 @@
 # EFTCalculator
-This project and source code does not belong to me.
+2017/6/5
+This project and its source code does not belong to me.
